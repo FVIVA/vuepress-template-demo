@@ -1,0 +1,9 @@
+{
+  "name": "vue-docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
